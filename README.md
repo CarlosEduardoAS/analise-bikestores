@@ -1,2 +1,2 @@
 # analise-bikestores
- Uma análise de métricas de venda feita com SQL, Excel e reunidas em um dashboard detalhado e interativo construído no Tableau.
+[Projeto completo]([https://carloseduardoas.github.io/portfolio/analise_de_dados.html#estudo-de-caso-bellabeat](https://carloseduardoas.github.io/portfolio/analise_de_dados.html#bikestores)https://carloseduardoas.github.io/portfolio/analise_de_dados.html#bikestores)
